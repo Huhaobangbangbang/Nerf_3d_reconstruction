@@ -11,7 +11,8 @@
 
 ## 训练
 python train.py configs/Tanks/wurenji.yaml
-
+## 训练好以后进行测试
+python evaluation/eval.py configs/Tanks/wurenji.yaml
 
 
 ### 我们的代码借鉴了Nope-nerf,Nerfstudio,Ha-nerf, 感谢开源工作者的分享
