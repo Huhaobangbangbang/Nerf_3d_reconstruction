@@ -4,9 +4,10 @@
 部分三维重建的结果如results所示
 
 ## 数据集建设
-1.需要获得地面的多角度图片
-2.然后利用colmap估计位姿（作为模型训练中的一个基准）
-3.通过Behindthesences算法来获得航拍图像的深度图
+#### 1.需要获得地面的多角度图片
+#### 2.然后利用colmap估计位姿（作为模型训练中的一个基准）
+#### 3.通过Behindthesences算法来获得航拍图像的深度图
+#### 无人机数据集（包含深度图）上传于
 
 ## 训练
 python train.py configs/Tanks/wurenji.yaml
