@@ -3,7 +3,7 @@
 
 部分三维重建的结果如results所示
 
-https://github.com/Huhaobangbangbang/Nerf_3d_reconstruction/blob/main/results/%E6%AD%A3%E5%B0%84%E6%8A%95%E5%BD%B1.png
+[https://github.com/Huhaobangbangbang/Nerf_3d_reconstruction/blob/main/results/%E6%AD%A3%E5%B0%84%E6%8A%95%E5%BD%B1.png]
 ## 数据集建设
 1.需要获得地面的多角度图片
 2.然后利用colmap估计位姿（作为模型训练中的一个基准）
