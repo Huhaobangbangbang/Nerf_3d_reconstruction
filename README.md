@@ -7,8 +7,9 @@
 #### 1.需要获得地面的多角度图片
 #### 2.然后利用colmap估计位姿（作为模型训练中的一个基准）
 #### 3.通过Behindthesences算法来获得航拍图像的深度图
-#### 无人机数据集（包含深度图）上传于 [Data](https://www.robots.ox.ac.uk/~wenjing/Tanks.zip)
+#### 无人机数据集（包含深度图）上传于 [百度网盘](https://pan.baidu.com/s/1mePnZ_vKuj_LyuxkZ8VYhg )
 
+提取码：tcmh
 ## 训练
 python train.py configs/Tanks/wurenji.yaml
 ## 训练好以后进行测试
